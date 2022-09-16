@@ -163,10 +163,10 @@
 
 }
 
-.herosection_bottom .image{
-     align-items: center;
-     display: flex;
-     flex-direction: column;
+.herosection_bottom .image {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
 }
 
 .herosection_bottom .image .hill_track_img {
@@ -197,4 +197,35 @@
     z-index: 9999;
     position: relative;
     top: 15px;
+}
+
+.herosection_bottom .brand_gallery {
+    padding: 0 300px;
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    top: 122px;
+}
+
+.herosection_bottom .brand_gallery .business_insider {
+    width: 90.22px;
+    height: 28.04px;
+}
+
+.herosection_bottom .brand_gallery .newsweek {
+    width: 159.1px;
+    height: 24.76px;
+}
+
+.herosection_bottom .brand_gallery .washington {
+    width: 177.07px;
+    height: 31.33px;
+}
+.herosection_bottom .brand_gallery .vogue {
+    width: 111.2px;
+    height: 28.42px;
+}
+.herosection_bottom .brand_gallery .cw {
+    width: 75px;
+    height: 35.2px;
 }
