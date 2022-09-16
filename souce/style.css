@@ -221,11 +221,19 @@
     width: 177.07px;
     height: 31.33px;
 }
+
 .herosection_bottom .brand_gallery .vogue {
     width: 111.2px;
     height: 28.42px;
 }
+
 .herosection_bottom .brand_gallery .cw {
     width: 75px;
     height: 35.2px;
+}
+
+.mission_section{
+    position: absolute;
+
+
 }
