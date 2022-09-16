@@ -160,4 +160,41 @@
 
 .herosection_bottom {
     height: 40%;
+
+}
+
+.herosection_bottom .image{
+     align-items: center;
+     display: flex;
+     flex-direction: column;
+}
+
+.herosection_bottom .image .hill_track_img {
+    position: absolute;
+    width: 322.26px;
+    height: 141.8px;
+    top: 569.7px;
+
+
+}
+
+.herosection_bottom .image p {
+    position: relative;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    text-transform: uppercase;
+    top: 87.14px;
+
+    color: #31556F;
+
+}
+
+.herosection_bottom .image .arrow_down_img {
+    z-index: 9999;
+    position: relative;
+    top: 15px;
 }
