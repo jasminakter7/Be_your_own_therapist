@@ -62,3 +62,45 @@
     background: linear-gradient(180deg, #C9D7FF 6.25%, rgba(255, 223, 218, 0.55) 60.98%, rgba(252, 244, 236, 0) 100%);
 
 }
+
+.herosection_top {
+    height: 60%;
+    display: flex;
+}
+
+.herosection_top_tagline {
+    position: absolute;
+    width: 472.88px;
+    height: 271.18px;
+    left: 232.5px;
+    top: 230.15px;
+
+
+}
+
+.herosection_top_tagline .title {
+    font-family: 'Space Grotesk';
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 115%;
+    letter-spacing: -0.02em;
+
+    color: #31556F;
+
+}
+
+.herosection_top_tagline .description {
+font-family: 'Space Grotesk';
+font-weight: 500;
+font-size: 24px;
+line-height: 31px;
+letter-spacing: 0.28px;
+margin-top: 30px;
+
+color: rgba(49, 85, 111, 0.6);
+
+}
+
+.herosection_bottom {
+    height: 40%;
+}
