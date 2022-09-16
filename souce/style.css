@@ -149,6 +149,15 @@
 
 }
 
+.herosection_top_image .image {
+    position: absolute;
+    width: 367.42px;
+    height: 414.45px;
+    top: 116.87px;
+    right: 60px;
+
+}
+
 .herosection_bottom {
     height: 40%;
 }
