@@ -1,10 +1,54 @@
-*{
+* {
     margin: 0;
     padding: 0;
-
 }
 
-.main{
+.main {
     width: 100%;
     background-color: aquamarine;
+    background-position: center;
+    height: 109vh;
+}
+
+.navbar {
+    background-color: #fdfdfd;
+    box-shadow: 2px 4px 4px 2px rgba(0, 0, 0, 0.06);
+    height: 90px;
+    position: sticky;
+    top: 0px;
+}
+
+.navbar_container {
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar_container_logo {
+    position: absolute;
+    width: 94.78px;
+    height: 40px;
+    left: 232.5px;
+    top: 25px;
+}
+
+.navbar_container_button_tryFreeBtn {
+    position: absolute;
+    width: 240.2px;
+    height: 55px;
+    right: 232.5px;
+    top: 17.5px;
+
+    background: #06B89D;
+    border-radius: 15px;
+    border: none;
+
+    font-family: 'Avenir LT Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+    color: #fff
+
 }
